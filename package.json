@@ -1,0 +1,12 @@
+{
+  "name": "dsawithjs",
+  "version": "1.0.0",
+  "description": "Dsa Practice",
+  "main": "ReverseAnArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ReverseAnArray.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
